@@ -19,13 +19,15 @@ It uses a real-world dataset from the **Numenta Anomaly Benchmark (NAB)** – am
 
 
 
-##  Folder Structure
+## Folder Structure
+
+```bash
 tsworks_anomaly/
 │
 ├── notebooks/
-│   └── anomaly_detection.ipynb          # Your main Jupyter Notebook (clean & documented)
+│   └── anomaly_detection.ipynb          # Main Jupyter Notebook (clean & documented)
 │
-├── src/                                 # (optional if you modularized your code)
+├── src/                                 # (optional if modularized)
 │   └── run_detection.py
 │
 ├── data/                                # Dataset folder (empty or with small sample)
@@ -47,8 +49,6 @@ tsworks_anomaly/
 ├── requirements.txt                      # All pip dependencies
 ├── .gitignore                            # Ignore unnecessary files like venv/
 └── venv/                                 # (not uploaded to GitHub)
-
-
 
 ---
 
