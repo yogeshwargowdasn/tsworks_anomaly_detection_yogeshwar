@@ -1,0 +1,43 @@
+# -----------------------------
+# Time Series Anomaly Detection for IoT Sensors
+# Environment: Python 3.10 + PyTorch 2.5.1 (CUDA 12.1)
+# Author: Yogeshwar Gowda SN
+# -----------------------------
+
+# Core utilities
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.5.2
+statsmodels==0.14.2
+
+# Deep Learning (PyTorch)
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
+# (For CPU-only version, use torch==2.5.1+cpu)
+
+# Data handling
+urllib3==2.2.3
+
+# Environment
+tqdm==4.66.5
+joblib==1.4.2
+
+# Notebook & visualization
+ipykernel==6.29.5
+jupyter==1.1.1
+notebook==7.2.2
+
+# Optional but helpful for reproducibility
+python-dateutil==2.9.0
+pytz==2024.2
+
+# -----------------------------
+# Installation command:
+# pip install -r requirements.txt
+# -----------------------------
