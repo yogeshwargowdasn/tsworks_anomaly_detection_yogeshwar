@@ -51,7 +51,6 @@ tsworks_anomaly/
 
 ---
 
----
 
 ##  How to Run
 ### 1️⃣ Open the Project in VS Code
@@ -194,4 +193,6 @@ You can modify (optional):
 1. Extend to multivariate sensor input (temperature + vibration + pressure)
 2. Use adaptive thresholds (MAD or percentile-based)
 3. Integrate live monitoring via Flask/FastAPI dashboard
+
+
 
