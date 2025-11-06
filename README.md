@@ -20,7 +20,7 @@ It uses a real-world dataset from the **Numenta Anomaly Benchmark (NAB)** – am
 
 ## Folder Structure
 
-```
+```bash
 tsworks_anomaly/
 │
 ├── notebooks/
@@ -47,12 +47,12 @@ tsworks_anomaly/
 ├── summary.docx                          # 2–3 page project summary
 ├── requirements.txt                      # All pip dependencies
 ├── .gitignore                            # Ignore unnecessary files like venv/
-└── venv/                                 # (not uploaded to GitHub)
+└── venv/                                 # (not uploaded to GitHub) 
+```
 
----
 
+### How to Run 
 
-##  How to Run
 ### 1️⃣ Open the Project in VS Code
 
 Download or clone the folder tsworks_anomaly/.
