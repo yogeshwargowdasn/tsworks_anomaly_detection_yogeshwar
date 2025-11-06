@@ -21,7 +21,7 @@ It uses a real-world dataset from the **Numenta Anomaly Benchmark (NAB)** – am
 
 ## Folder Structure
 
-```bash
+```
 tsworks_anomaly/
 │
 ├── notebooks/
