@@ -18,7 +18,6 @@ It uses a real-world dataset from the **Numenta Anomaly Benchmark (NAB)** – am
 
 
 
-
 ## Folder Structure
 
 ```
@@ -49,6 +48,8 @@ tsworks_anomaly/
 ├── requirements.txt                      # All pip dependencies
 ├── .gitignore                            # Ignore unnecessary files like venv/
 └── venv/                                 # (not uploaded to GitHub)
+
+---
 
 ---
 
