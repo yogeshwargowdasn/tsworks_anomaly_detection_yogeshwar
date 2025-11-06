@@ -60,7 +60,7 @@ Download or clone the folder tsworks_anomaly/.
 
 Open it directly in VS Code.
 
-Ensure Python 3.10.x is installed (recommended version: 3.10.11).
+Ensure Python 3.10.x is installed (recommended version: 3.12.4).
 
 You can verify your Python version by running:
 python --version
@@ -178,7 +178,7 @@ You can modify (optional):
 
 | Category         | Tools Used                         |
 | ---------------- | ---------------------------------- |
-| Language         | Python 3.10                        |
+| Language         | Python 3.12                        |
 | Libraries        | pandas, numpy, matplotlib, seaborn |
 | Machine Learning | scikit-learn (Isolation Forest)    |
 | Deep Learning    | PyTorch (LSTM Autoencoder)         |
